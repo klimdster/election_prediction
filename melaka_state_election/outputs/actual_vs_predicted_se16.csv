@@ -1,0 +1,29 @@
+seat_no,seat,pred_winner,actual_winner,actual_candidate,pred_margin_pts,actual_margin_pts,confidence,turnout_pct,voters,valid_votes,correct,pred_BNPN_pct,actual_BNPN_pct,pred_PH_pct,actual_PH_pct,pred_BERSATU_pct,actual_BERSATU_pct,pred_BERSAMA_pct,actual_BERSAMA_pct,pred_OTH_pct,actual_OTH_pct
+N1,Kuala Linggi,UMNO/BN,UMNO/BN,Rosli bin Abdullah,46.9,44.1,Safe,72.1,15483,11076,True,71.8,70.1,24.9,26.0,0.0,0.0,3.3,4.0,0.0,0.0
+N2,Tanjung Bidara,UMNO/BN,UMNO/BN,Ab Rauf bin Yusoh,71.6,74.6,Safe,77.6,15003,11543,True,85.8,87.3,14.2,12.7,0.0,0.0,0.0,0.0,0.0,0.0
+N3,Ayer Limau,UMNO/BN,UMNO/BN,Hameed bin Mytheen Kunju Basheer,67.3,76.3,Safe,75.5,15379,11479,True,83.6,88.1,16.4,11.9,0.0,0.0,0.0,0.0,0.0,0.0
+N4,Lendu,UMNO/BN,UMNO/BN,Abdul Hakim bin Abdul Wahid,62.6,57.9,Safe,71.0,15043,10507,True,81.3,79.0,0.0,0.0,18.7,21.0,0.0,0.0,0.0,0.0
+N5,Taboh Naning,UMNO/BN,UMNO/BN,Zulkiflee bin Mohd Zin,55.2,63.5,Safe,71.2,11299,7913,True,77.6,81.8,22.4,18.2,0.0,0.0,0.0,0.0,0.0,0.0
+N6,Rembia,UMNO/BN,UMNO/BN,Ahmad Norazril bin Abd Aziz,34.0,36.1,Safe,71.9,23291,16595,True,65.1,65.8,31.1,29.7,0.0,0.0,3.8,4.6,0.0,0.0
+N7,Gadek,MIC/BN,MIC/BN,Nadarajah a/l Sellappa,28.3,31.8,Likely,67.3,16617,11034,True,61.6,58.7,33.3,26.8,0.0,0.0,4.1,2.6,1.0,11.9
+N8,Machap Jaya,MCA/BN,MCA/BN,Ngwe Hee Sem,20.0,19.6,Likely,71.9,16030,11417,True,57.7,58.6,37.7,39.0,0.0,0.0,4.5,2.5,0.0,0.0
+N9,Durian Tunggal,UMNO/BN,UMNO/BN,Mustafa bin Musa,29.5,29.7,Likely,74.5,21181,15635,True,64.7,64.9,35.3,35.1,0.0,0.0,0.0,0.0,0.0,0.0
+N10,Asahan,UMNO/BN,UMNO/BN,Fairul Nizam bin Roslan,38.9,64.0,Safe,71.6,20217,14304,True,69.4,82.0,30.6,18.0,0.0,0.0,0.0,0.0,0.0,0.0
+N11,Sungai Udang,UMNO/BN,UMNO/BN,Rais bin Yasin,63.9,74.6,Likely,74.8,29692,21742,True,80.4,84.2,0.0,0.0,16.5,9.7,3.1,6.1,0.0,0.0
+N12,Pantai Kundor,UMNO/BN,UMNO/BN,Tuminah binti Kadi @ Mohd Hashim,55.2,18.4,Safe,72.7,20855,14976,True,77.6,59.2,0.0,0.0,22.4,40.8,0.0,0.0,0.0,0.0
+N13,Paya Rumput,PAS/PN,PAS/PN,Rafie bin Ahmad,17.1,21.4,Lean,72.7,46521,33549,True,56.5,58.8,39.4,37.4,0.0,0.0,4.1,3.8,0.0,0.0
+N14,Kelebang,MCA/BN,MCA/BN,Lim Ban Hong,30.8,35.7,Likely,72.9,27339,19698,True,61.8,63.6,31.0,27.9,3.6,4.8,3.7,3.8,0.0,0.0
+N15,Pengkalan Batu,UMNO/BN,UMNO/BN,Siti Aisyah binti Mahmood,24.7,33.8,Likely,73.3,25948,18808,True,58.6,62.9,33.8,29.1,3.5,4.7,4.1,3.3,0.0,0.0
+N16,Ayer Keroh,DAP/PH,DAP/PH,Kerk Chee Yee,20.3,21.9,Lean,67.5,38252,25561,True,36.3,33.2,56.6,55.1,2.3,4.2,4.8,7.6,0.0,0.0
+N17,Bukit Katil,PAS/PN,PAS/PN,Muhammad Ridzuan bin Mohd Sarif,9.5,26.2,Toss-up,72.0,35359,25237,True,52.0,60.6,42.5,34.5,0.0,0.0,3.9,4.4,1.5,0.5
+N18,Ayer Molek,UMNO/BN,UMNO/BN,Mohd Ridhwan bin Mohd Ali,56.0,67.2,Safe,79.9,24614,19516,True,78.0,83.6,22.0,16.4,0.0,0.0,0.0,0.0,0.0,0.0
+N19,Kesidang,DAP/PH,DAP/PH,Seah Shoo Chin (Allex Seah),28.7,25.5,Lean,67.2,54910,36623,True,33.2,34.5,61.9,60.0,0.0,0.0,5.0,5.5,0.0,0.0
+N20,Kota Laksamana,DAP/PH,DAP/PH,Low Chee Leong,46.1,44.1,Safe,63.3,34066,21356,True,24.2,24.2,70.2,68.4,0.0,0.0,5.6,7.4,0.0,0.0
+N21,Duyong,UMNO/BN,UMNO/BN,Mohd Noor Helmy bin Abdul Halem,25.4,50.0,Likely,76.2,26528,20094,True,62.7,75.0,37.3,25.0,0.0,0.0,0.0,0.0,0.0,0.0
+N22,Bandar Hilir,DAP/PH,DAP/PH,Leng Chau Yen,47.4,58.9,Safe,58.3,23042,13342,True,23.4,15.6,70.9,74.5,0.0,0.0,5.7,9.9,0.0,0.0
+N23,Telok Mas,UMNO/BN,UMNO/BN,Abdul Razak bin Abdul Rahman,41.3,50.9,Safe,73.9,29751,21834,True,68.9,73.3,27.6,22.4,0.0,0.0,3.5,4.2,0.0,0.0
+N24,Bemban,WAWASAN/PN,WAWASAN/PN,Mohd Yadzil bin Yaakub,37.1,42.1,Likely,70.5,26381,18404,True,65.3,64.6,0.0,0.0,28.2,11.5,4.7,22.5,1.8,1.5
+N25,Rim,UMNO/BN,UMNO/BN,Khaidhirah binti Abu Zahar,41.9,56.3,Safe,71.8,17742,12604,True,70.9,78.1,29.1,21.9,0.0,0.0,0.0,0.0,0.0,0.0
+N26,Serkam,UMNO/BN,UMNO/BN,Azman bin Abdullah,64.8,74.6,Safe,80.1,21352,17000,True,81.0,86.1,16.1,11.4,0.0,0.0,2.9,2.5,0.0,0.0
+N27,Merlimau,UMNO/BN,UMNO/BN,Muhamad Akmal bin Saleh,44.4,59.4,Safe,74.9,19759,14682,True,72.2,79.7,27.8,20.3,0.0,0.0,0.0,0.0,0.0,0.0
+N28,Sungai Rambai,UMNO/BN,UMNO/BN,Jezlee bin Pit,55.2,61.4,Safe,76.8,16043,12208,True,76.9,78.7,21.6,17.3,0.0,0.0,0.0,0.0,1.5,4.0

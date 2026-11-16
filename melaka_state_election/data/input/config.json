@@ -1,0 +1,23 @@
+{
+ "confidence_thresholds_pts": {
+  "Safe": 30,
+  "Likely": 18,
+  "Lean": 8
+ },
+ "confidence_overrides": {
+  "16": "Lean",
+  "19": "Lean",
+  "17": "Toss-up",
+  "24": "Likely",
+  "14": "Likely",
+  "11": "Likely"
+ },
+ "override_notes": {
+  "16": "Ilham Centre rated close",
+  "19": "Ilham Centre rated close",
+  "17": "ex-CM incumbent; analyst views split",
+  "24": "Bersatu vs Wawasan contest, 2021 winner switched party",
+  "14": "four-cornered",
+  "11": "Bersatu won seat in 2021"
+ }
+}

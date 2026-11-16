@@ -1,0 +1,82 @@
+{
+ "seats_correct": 28,
+ "seats": 28,
+ "bloc_error": {
+  "BNPN": {
+   "seats": 28,
+   "mae_pts": 4.6,
+   "bias_actual_minus_pred_pts": 1.9
+  },
+  "PH": {
+   "seats": 24,
+   "mae_pts": 4.4,
+   "bias_actual_minus_pred_pts": -3.9
+  },
+  "BERSATU": {
+   "seats": 7,
+   "mae_pts": 6.9,
+   "bias_actual_minus_pred_pts": 0.2
+  },
+  "BERSAMA": {
+   "seats": 16,
+   "mae_pts": 2.4,
+   "bias_actual_minus_pred_pts": 1.7
+  }
+ },
+ "statewide_actual_pct": {
+  "BERSAMA": 3.92,
+  "BERSATU": 3.16,
+  "BNPN": 63.16,
+  "OTH": 0.45,
+  "PH": 29.31
+ },
+ "statewide_pred_pct": {
+  "BERSAMA": 2.88,
+  "BNPN": 60.03,
+  "PH": 33.6,
+  "BERSATU": 3.29,
+  "OTH": 0.21
+ },
+ "turnout_pct": {
+  "SE-15": 65.8,
+  "SE-16": 71.8
+ },
+ "biggest_margin_misses": [
+  {
+   "seat_no": "N12",
+   "seat": "Pantai Kundor",
+   "pred_margin_pts": 55.2,
+   "actual_margin_pts": 18.4
+  },
+  {
+   "seat_no": "N10",
+   "seat": "Asahan",
+   "pred_margin_pts": 38.9,
+   "actual_margin_pts": 64.0
+  },
+  {
+   "seat_no": "N21",
+   "seat": "Duyong",
+   "pred_margin_pts": 25.4,
+   "actual_margin_pts": 50.0
+  },
+  {
+   "seat_no": "N17",
+   "seat": "Bukit Katil",
+   "pred_margin_pts": 9.5,
+   "actual_margin_pts": 26.2
+  },
+  {
+   "seat_no": "N27",
+   "seat": "Merlimau",
+   "pred_margin_pts": 44.4,
+   "actual_margin_pts": 59.4
+  },
+  {
+   "seat_no": "N25",
+   "seat": "Rim",
+   "pred_margin_pts": 41.9,
+   "actual_margin_pts": 56.3
+  }
+ ]
+}
