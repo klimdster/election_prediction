@@ -106,6 +106,8 @@ needed to confirm how individual voters moved.
 
 ## Sources
 
+- **Primary data: [ElectionData.my](https://electiondata.my) by Thevesh Theva.** Ballots, seat statistics and DUN boundaries are all from this open dataset. Credit and thanks to Thevesh.
+
 - electiondata.my: `headline_ballots_state_mlk`, `headline_stats_state_mlk`, `headline_ballots_state_jhr`,
   `peninsular_2018_dun`
 - Wikipedia constituency pages (electorate ethnic mix, citing China Press 2026)

@@ -15,3 +15,10 @@ the post-election scorecard kept next to the code.
 - Each subproject has its own `README.md`, `requirements.txt`, numbered scripts and an `outputs/` folder.
 - Small source snapshots are committed under `data/raw/`; large files (e.g. boundary GeoJSON) are downloaded by the scripts.
 - Predictions are model-based estimates, not certainties.
+
+## Data source and credit
+
+Election data comes from [ElectionData.my](https://electiondata.my) by Thevesh Theva, an open data
+project covering Malaysian election results, electorate statistics and constituency boundaries.
+Many thanks to Thevesh for making this data freely available. Please cite ElectionData.my if you
+reuse the data or results in this repository.
